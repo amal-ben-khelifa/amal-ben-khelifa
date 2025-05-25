@@ -1,7 +1,8 @@
 <img src="GitHub Banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Amal, a Tunisian Web Developer 👋🏼:
-🛜 Professional Experience : Sofrecom Tunisia — *Software Engineer* <br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2021 <br>🎬**Project: Echat – AI-powered live chat platform for Orange clients**
+🛜 Professional Experience : Sofrecom Tunisia — *Software Engineer* <br>🎓 Graduated in Software Development Engineering from the Higher Institute of Computer Science, Ariana (ISI), Tunisia.
+<br>👨🏼‍💻 working as a web developer since 2021 <br>🎬**Project: Echat – AI-powered live chat platform for Orange clients**
 
 
 # 💻 Tech Stack:
