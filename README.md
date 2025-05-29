@@ -1,58 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Amal Ben Khelifa | Portfolio</title>
-  <style>
-    /* Styles de base */
-    body {
-      font-family: Arial, sans-serif;
-      background-color: white;
-      color: black;
-      margin: 0;
-      padding: 0;
-      transition: background-color 0.3s ease, color 0.3s ease;
-    }
-
-    header {
-      padding: 1rem;
-      text-align: right;
-      background-color: #f5f5f5;
-    }
-
-    main {
-      padding: 2rem;
-    }
-
-    /* Bouton dark mode */
-    #dark-mode-toggle {
-      padding: 0.5rem 1rem;
-      font-size: 1rem;
-      background-color: #ddd;
-      border: none;
-      cursor: pointer;
-      border-radius: 5px;
-    }
-
-    /* Thème sombre */
-    body.dark-mode {
-      background-color: #121212;
-      color: #e0e0e0;
-    }
-
-    body.dark-mode header {
-      background-color: #1e1e1e;
-    }
-
-    body.dark-mode #dark-mode-toggle {
-      background-color: #333;
-      color: white;
-    }
-  </style>
-</head>
-<body>
-
 <img src="GitHub Banner.png" alt="GitHub Banner" width="100%" />
 <button id="dark-mode-toggle">🌙 Mode sombre</button>
 
@@ -79,4 +24,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-</body>
