@@ -1,5 +1,5 @@
 <img src="GitHub Banner.png" alt="GitHub Banner" width="100%" />
-<button id="dark-mode-toggle">🌙 Mode sombre</button>
+
 
 # Hello World!, I'm Amal, a Tunisian Web Developer 👋🏼:
 🛜 Professional Experience : Sofrecom Tunisia — *Software Engineer* <br>🎓 Graduated in Software Development Engineering from the Higher Institute of Computer Science, Ariana (ISI), Tunisia.
