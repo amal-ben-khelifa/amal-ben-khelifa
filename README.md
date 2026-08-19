@@ -171,19 +171,13 @@ My goal is to contribute to meaningful IT projects while continuing to grow in b
 
 ## 📫 Let's Connect
 
-I'm open to discussing **IT opportunities, projects and professional collaborations**.
-
 <p align="center">
 
-<a href="https://www.linkedin.com/in/amal-ben-khelifa-7835661a0/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON_LINKEDIN/)
 
-📧 **Email:** TON_EMAIL@amelbk7@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amal-ben-khelifa)
 
-<a href="https://amal-ben-khelifa.github.io/amal-ben-khelifa/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+📧 **Email:** TON_EMAIL@example.com
 
 </p>
 
