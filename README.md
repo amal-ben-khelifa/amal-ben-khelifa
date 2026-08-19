@@ -173,11 +173,11 @@ My goal is to contribute to meaningful IT projects while continuing to grow in b
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON_LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-ben-khelifa-7835661a0/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amal-ben-khelifa)
 
-📧 **Email:** TON_EMAIL@example.com
+📧 **Email:** amelbk7@gmail.com
 
 </p>
 
