@@ -6,51 +6,50 @@
 
 I'm a Software Engineer with experience in **Java, Angular, application development and IT projects**.
 
-I enjoy understanding business needs, analyzing requirements and working with technical teams to build practical and reliable solutions.
+I enjoy understanding business needs, analyzing requirements and working with technical teams to deliver practical and reliable solutions.
 
-🎯 **Currently interested in:** IT Business Analyst · Functional Analyst · IT Project Analyst · Software Engineer
+🎯 **Open to opportunities in:** IT Business Analysis · Functional Analysis · IT Projects · Software Engineering
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💼 Software Engineer at **Sofrecom, Orange Group**
+- 💼 **Software Engineer** at Sofrecom, Orange Group
 - 🚀 Working in software development since **2021**
-- 🎓 Engineering Degree in Software Development – Institut Supérieur d'Informatique, Tunisia
-- 🌍 Experience working in an international environment with teams in Tunisia and France
+- 🎓 Engineering Degree in Software Development
+- 🌍 Experience working with international teams in Tunisia and France
 - 🔎 Interested in **Business Analysis, Functional Analysis, IT Projects and Application Support**
-- 🤝 I enjoy working at the intersection of **business needs and technical solutions**
-- 📚 Always learning and improving my technical and analytical skills
+- 🤝 Strong interest in the connection between **business needs and technology**
+- 📚 Continuously developing my technical and analytical skills
 
 ---
 
-## 💡 What I Do
+## 💡 Areas of Expertise
 
 ### Business & Functional Analysis
 
 - Requirements analysis
-- Understanding business needs
+- Business needs understanding
 - Functional analysis
 - Technical analysis
-- Application improvement
-- Business / IT communication
 - Stakeholder collaboration
+- Business / IT communication
 
 ### IT Projects & Application Support
 
-- Project coordination
 - Application support
 - Incident analysis and troubleshooting
-- Technical documentation
 - Testing and validation
-- Agile / Scrum collaboration
+- Technical documentation
+- Application maintenance
+- Agile / Scrum
 
 ### Software Engineering
 
+- Frontend & backend development
 - Web application development
 - REST API integration
-- Frontend and backend development
-- Application maintenance
+- Application evolution
 - Technical problem solving
 
 ---
@@ -62,18 +61,18 @@ I enjoy understanding business needs, analyzing requirements and working with te
 **Software Engineer**  
 `2021 – Present`
 
-I work on enterprise applications and digital solutions within an Agile/Scrum environment, collaborating with teams in Tunisia and France.
+Working on enterprise applications and digital solutions within an Agile/Scrum environment.
 
-### Main responsibilities
+**Key responsibilities:**
 
 - Developing and maintaining applications using **Java and Angular**
 - Analyzing functional requirements
 - Translating business needs into technical solutions
 - Investigating and resolving application issues
-- Supporting application evolution and maintenance
+- Contributing to application evolution and maintenance
 - Participating in testing and quality activities
 - Collaborating with international technical teams
-- Contributing to application support and incident resolution
+- Supporting application incidents and troubleshooting
 
 ---
 
@@ -81,19 +80,19 @@ I work on enterprise applications and digital solutions within an Agile/Scrum en
 
 ### 💬 Echat – Messaging Platform
 
-An enterprise messaging platform supporting digital conversations within the Orange ecosystem.
+Enterprise messaging platform supporting digital conversations within the Orange ecosystem.
 
-**My contribution:**
+**Contribution:**
 
-- Frontend development with Angular
-- Integration of REST APIs and external services
-- Integration with LivePerson SDK
+- Angular frontend development
+- REST API integration
+- LivePerson SDK integration
 - Troubleshooting and incident analysis
 - Application maintenance and evolution
 - Collaboration with Orange France teams
 - Agile/Scrum development
 
-**Technologies:**
+**Technologies**
 
 `Angular` `TypeScript` `RxJS` `Java` `REST APIs` `LivePerson` `Git` `Jenkins` `Jira`
 
@@ -101,18 +100,17 @@ An enterprise messaging platform supporting digital conversations within the Ora
 
 ### 💳 Billing Application – UI Modernization
 
-Contributed to the modernization of user interfaces for a billing application serving consumer customers.
+Modernization of user interfaces for a billing application serving consumer customers.
 
-**My contribution:**
+**Contribution:**
 
-- Analysis and implementation of new user interfaces
-- Angular development
+- UI development with Angular
 - Integration with Java backend services
 - REST API integration
 - Testing and troubleshooting
 - Application maintenance and evolution
 
-**Technologies:**
+**Technologies**
 
 `Angular` `Java` `Spring` `REST APIs` `Maven` `Jenkins` `Git`
 
@@ -120,71 +118,30 @@ Contributed to the modernization of user interfaces for a billing application se
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### APIs, Databases & Tools
 
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-### Tools & DevOps
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
+### DevOps & Quality
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-### Tools
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amal-ben-khelifa&show_icons=true&hide_border=true&count_private=true" alt="Amal's GitHub Stats" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-ben-khelifa&hide_border=true" alt="GitHub Streak" />
-
-</p>
 
 ---
 
@@ -192,32 +149,29 @@ Contributed to the modernization of user interfaces for a billing application se
 
 I'm looking for an opportunity where I can combine my **technical background, analytical skills and understanding of IT environments**.
 
-I'm particularly interested in positions such as:
+I'm particularly interested in:
 
 - **IT Business Analyst**
-- **Senior IT Business Analyst**
 - **Functional Analyst**
 - **IT Project Analyst**
-- **Software Engineer**
 - **Application Support Analyst**
+- **Software Engineer**
 
-I'm especially interested in collaborative environments where I can continue learning, contribute to meaningful projects and grow professionally.
+My goal is to contribute to meaningful IT projects while continuing to grow in both **technology and business analysis**.
 
 ---
 
 ## 🌍 Languages
 
-| Language | Level |
-|----------|-------|
-| 🇫🇷 French | Professional |
-| 🇬🇧 English | Professional |
-| 🇹🇳 Arabic | Native |
+🇫🇷 **French** — Professional  
+🇬🇧 **English** — Professional  
+🇹🇳 **Arabic** — Native
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to discussing **IT opportunities, projects and professional collaborations**.
+I'm open to discussing **IT opportunities, projects and professional collaborations**.
 
 <p align="center">
 
@@ -239,6 +193,6 @@ I'm always open to discussing **IT opportunities, projects and professional coll
 
 <p align="center">
 
-**Thanks for visiting my profile! 👋**
+⭐ Thanks for visiting my profile!
 
 </p>
